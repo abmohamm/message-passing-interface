@@ -1,4 +1,4 @@
-# message-passing-interface : This algorithm helps us to perform image analysis. As image is identified in the form of rows and columns
+# message-passing-interface : This algorithm helps us to perform image analysis,as image is represented in the form of rows and columns.
 
 Requirement : Application is responsible to perform multiplcation on two matrices.
 
@@ -17,5 +17,5 @@ should be met.
 6.Application checks for the above condtion, if it satisfied one two dimensional-array will be prepared with the help of rows in first
 matrix and columns in second matrix to hold the result of two matrix multiplication.
 7.Once the resultant matrix is prepared, multiplication will be performed on the both matrices to store the result into newly created array.
-8.After the result is determined, it will be stored in a specific file at one location in local machine where one can check the file with 
-the name("matrix.txt").
+8.After the result is determined, it will be stored in a specific file at one location("c:/temp/") in local machine where one can check the file with 
+the name("samplefile.txt").
