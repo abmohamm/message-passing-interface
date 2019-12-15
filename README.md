@@ -19,7 +19,7 @@ should be met.
       having a dimension(Number of rows in first matrix * Number of columns in second matrix).
 
 6.Application checks for above condtion, if it satisfied one two dimensional-array will be prepared with help of rows in first
-matrix and columns in second matrix to hold result of two matrix multiplication.
+matrix and columns in second matrix to hold result of both matrices multiplication.
 
 7.Once the resultant matrix is prepared, multiplication will be performed on both matrices to store result into newly created array.
 
